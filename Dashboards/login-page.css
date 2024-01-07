@@ -1,0 +1,325 @@
+.hello-again,
+.wellcome-back-youve {
+  align-self: start;
+  position: undefined;
+  display: inline-block;
+}
+.hello-again {
+  line-height: 105%;
+  height: 52px;
+  margin-left: 53px;
+}
+.wellcome-back-youve {
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  font-weight: 500;
+  height: 24px;
+  margin-left: 39px;
+}
+.frame1 {
+  width: 353px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.enter-username {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  font-weight: 500;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.vector-icon9 {
+  position: relative;
+  width: 28px;
+  height: 33.8px;
+}
+.enter-username-parent,
+.frame4 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+}
+.enter-username-parent {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-500);
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 80px var(--padding-mini) 8.246776580810547px;
+}
+.frame4 {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.eyeslash-icon {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame3,
+.password-parent {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.password-parent {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-500);
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-2xs) var(--padding-mini);
+}
+.frame3 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 35px;
+}
+.recovery-password {
+  position: undefined;
+  text-decoration: underline;
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  font-weight: 500;
+  display: inline-block;
+  height: 17px;
+  margin-left: 156px;
+}
+.sign-in {
+  position: relative;
+  line-height: 105%;
+}
+.frame8,
+.sign-in-wrapper {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.sign-in-wrapper {
+  border-radius: var(--br-9xl);
+  background-color: var(--color-cornflowerblue);
+  height: 77px;
+  flex-shrink: 0;
+  justify-content: flex-end;
+  padding: var(--padding-xl) 0;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.frame8 {
+  justify-content: center;
+}
+.not-a-member,
+.register-now {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  font-weight: 500;
+}
+.register-now {
+  text-decoration: underline;
+  color: var(--color-royalblue);
+  cursor: pointer;
+}
+.not-a-member-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.frame7,
+.frame9 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.frame7 {
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  font-size: var(--h2-size);
+  color: var(--color-white);
+}
+.frame2,
+.frame6 {
+  justify-content: center;
+}
+.frame6 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 50px;
+  color: var(--color-black);
+}
+.frame2 {
+  width: 391px;
+  gap: 21px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-400);
+}
+.frame,
+.frame-parent,
+.frame2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.frame-parent {
+  position: absolute;
+  top: calc(50% - 288px);
+  right: 720px;
+  border-radius: var(--br-19xl);
+  background-color: var(--color-silver);
+  width: 527px;
+  height: 554px;
+  overflow: hidden;
+  
+}
+.frame {
+  flex: 1;
+  justify-content: flex-start;
+}
+.pustakis1 {
+  position: absolute;
+  top: 13px;
+  left: 53px;
+  font-size: var(--font-size-10xl);
+  font-family: var(--font-inria-serif);
+  color: var(--color-black);
+}
+.logo-placeholder-item {
+  position: absolute;
+  top: 18px;
+  left: 24px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  width: 24px;
+  height: 24px;
+}
+.p1,
+.t1 {
+  position: absolute;
+  top: 13px;
+  left: 30px;
+}
+.t1 {
+  top: 16px;
+  left: 33px;
+}
+.logo-placeholder1 {
+  position: relative;
+  width: 184px;
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.already-have-an {
+  position: relative;
+  font-size: var(--paragraph-body-text-size);
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  font-weight: 500;
+  font-family: var(--h2);
+  margin-bottom: -8px;
+  font-size: small
+}
+.frame10 {
+  width: 190px;
+  height: 139px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-41xl);
+}
+.welcome-to-pustakis {
+  align-self: stretch;
+  position: relative;
+  line-height: 108%;
+  font-size: 30px;
+}
+.sign-in-container {
+  align-self: stretch;
+  border-radius: var(--br-9xl);
+  background: linear-gradient(
+    98.08deg,
+    rgba(41, 89, 212, 0),
+    rgba(0, 72, 255, 0) 99.99%,
+    rgba(161, 177, 218, 0)
+  );
+  border: 1px solid var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-2xs) 86px;
+  cursor: pointer;
+  text-align: left;
+}
+.frame-group,
+.frame11,
+.login-page {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.frame11 {
+  width: 348px;
+  flex-direction: column;
+  justify-content: center;
+  gap: 91px;
+  margin-top: -67px;
+  text-align: center;
+  font-size: var(--h2-size);
+  font-family: var(--h2);
+}
+.frame-group,
+.login-page {
+  justify-content: flex-start;
+}
+.frame-group {
+  flex: 1;
+  border-radius: var(--br-13xl) 0 0 var(--br-13xl);
+  background-color: var(--color-cornflowerblue);
+  height: 654px;
+  flex-direction: column;
+  padding: var(--padding-120xl) 94px var(--padding-120xl) 95px;
+  box-sizing: border-box;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+  font-family: var(--font-inknut-antiqua);
+  margin-left: 400px;
+}
+.login-page {
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 100%;
+  flex-direction: row;
+  gap: 183px;
+  text-align: left;
+  font-size: var(--h1-size);
+  color: var(--color-black);
+  font-family: var(--h2);
+}
